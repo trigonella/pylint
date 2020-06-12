@@ -1,2 +1,5 @@
 inspecode:
+  global:
+    ignore:
+      - tests
   pylint: default
